@@ -9,7 +9,7 @@ class MainView extends React.Component{
             <h2>A Mobile Apps Developer</h2>
           </div>
           <div style={{ width: '100px' }}></div>
-          <img src='./personal.jpg' width={'300px'} height={'300px'} style={{ borderRadius: '50%', border: '2px solid gray' }}></img>
+          <img src='./personal.jpg' alt="  " width={'300px'} height={'300px'} style={{ borderRadius: '50%', border: '2px solid gray' }}></img>
         </div>;
     }
 }

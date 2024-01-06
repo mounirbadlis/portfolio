@@ -18,7 +18,7 @@ class Contact extends React.Component{
             <div>Mounir Badlis</div>
             </div>
             <div style={{ display : 'flex', flexDirection : 'column'}}>
-            <img src ='./whatsapp.png' width={'50px'} height={'50px'}></img>
+            <img alt="   " src ='./whatsapp.png' width={'50px'} height={'50px'}></img>
             <div>+213799 93 88 00</div>
             </div>
         </div>
